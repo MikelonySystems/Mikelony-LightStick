@@ -9,7 +9,7 @@ Compatible **Windows** et **macOS**.
 
 👉 Dernière version ici
 - Windows : [LightStick.exe](https://github.com/MikelonySystems/Mikelony-LightStick/releases/download/v0.1.0/LightStick.exe) (portable, pas besoin d’installation)  
-- macOS : *(à venir)*
+- macOS : [LightStick.dmg](https://github.com/MikelonySystems/Mikelony-LightStick/releases/download/v0.1.0/LightStick-mac.dmg)
 
 👉 Téléchargez des exemples Excel pour vos données si vous en avez besoin :
 
