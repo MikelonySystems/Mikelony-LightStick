@@ -13,8 +13,8 @@ Compatible **Windows** et **macOS**.
 
 👉 Téléchargez des exemples Excel pour vos données si vous en avez besoin :
 
-- Exemple pour les [Étiquettes projecteurs](https://github.com/MikelonySystems/Mikelony-LightStick/exemples/ProjoStick_exemple.xlsx). 
-- Exemple pour les [Périphériques IP](https://github.com/MikelonySystems/Mikelony-LightStick/exemples/IPStick_exemple.xlsx).
+- Exemple pour les [Étiquettes projecteurs](https://github.com/MikelonySystems/Mikelony-LightStick/rsc/ProjoStick_exemple.xlsx). 
+- Exemple pour les [Périphériques IP](https://github.com/MikelonySystems/Mikelony-LightStick/rsc/IPStick_exemple.xlsx).
 
 ---
 
