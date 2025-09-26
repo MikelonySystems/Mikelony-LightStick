@@ -1,6 +1,6 @@
 # Mikelony-LightStick
 
-Application simple pour générer des étiquettes (fixtures, devices réseau, etc.) en PDF à partir d’un fichier Excel ou CSV.  
+Application simple pour générer des étiquettes (fixtures, devices réseau, etc.) en PDF à partir d’un fichier Excel ou CSV que vous aurez completé ou en utilisant l'export depuis Vectorworks.  
 Compatible **Windows** et **macOS**.
 
 ---
